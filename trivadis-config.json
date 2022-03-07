@@ -2,9 +2,9 @@
     "arbori": "config/trivadis_custom_format.arbori",
     "xml": "config/trivadis_advanced_format.xml",
     "files": [
-      "../repo/src/*/*.sql",
-      "../repo/src/*/*.pkh",
-      "../repo/src/*/*.pk",
-      "../repo/src/*/*.sql"
+      "../repo/src/db/*/*.sql",
+      "../repo/src/db/*/*.pkh",
+      "../repo/src/db/*/*.pk",
+      "../repo/src/db/*/*.sql"
     ]
   }
