@@ -1,10 +1,4 @@
 {
   "arbori": "config/trivadis_custom_format.arbori",
-  "xml": "config/trivadis_advanced_format.xml",
-  "files": [
-    "$HOME/repo/src/db/*.sql",
-    "$HOME/repo/src/db/*.pkh",
-    "$HOME/repo/src/db/*.pks",
-    "$HOME/repo/src/db/*.pkb"
-  ]
+  "xml": "config/trivadis_advanced_format.xml"
 }
