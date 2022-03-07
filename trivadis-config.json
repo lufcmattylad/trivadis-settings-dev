@@ -1,4 +1,4 @@
 {
-  "arbori": "config/trivadis_custom_format.arbori",
-  "xml": "config/trivadis_advanced_format.xml"
+  "arbori": "$HOME/trivadis-settings/config/trivadis_custom_format.arbori",
+  "xml": "$HOME/trivadis-settings/config/trivadis_advanced_format.xml"
 }
